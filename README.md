@@ -2,3 +2,4 @@
 
 HTML5 implementation of the vector scene from the Atari ST demo ST-NICCC 2000 - see https://www.youtube.com/watch?v=nqVJWFNpTqA
 
+Live demo at https://dabadab.github.io/st-niccc-2000-html5/
