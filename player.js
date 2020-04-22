@@ -51,7 +51,7 @@ async function playFrames() {
 	// TO=FROM+1
 	for ( f=FROM; f<TO; f++) {
 		renderFrame(movie.frames[f]);
-		await sleep(100);
+		await sleep(10);
 	}
 }
 
